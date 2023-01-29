@@ -1,6 +1,5 @@
 
-# Hola! 👋 Soy Lenin <img width="20" alt="hello" src="https://emoji.gg/assets/emoji/8950_abloblurk.gif">
-<img src="https://media.giphy.com/media/3PAL5bChWnak0WJ32x/giphy.gif" width="100"/>
+# Hola! 👋 Soy Lenin
 
 ## Acerca de mí 🙋‍♂️
 Soy un desarrollador web con experiencia en tecnologías como Vue, Java, C# y Python. Me enfoco en el desarrollo de aplicaciones y soluciones web 💻💻💻.
@@ -9,7 +8,9 @@ Soy un desarrollador web con experiencia en tecnologías como Vue, Java, C# y Py
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leninrkb&show_icons=true&icon_color=4ff6fa&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leninrkb&hide=liquid&layout=compact&theme=tokyonight&hide_border=true)
 
-### Habilidades
+
+
+### Mis habilidades <img width="20" src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/twitch-1000.gif"/>
 <code><img src="https://icon-icons.com/icons2/195/PNG/48/Java_23404.png" width="20px"/></code>
 <code><img src="https://cdn.icon-icons.com/icons2/112/PNG/64/python_18894.png" width="20px"/></code> 
 <code><img src="https://icon-icons.com/icons2/2415/PNG/48/csharp_original_logo_icon_146578.png" width="20px"/></code> 

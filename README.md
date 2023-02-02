@@ -1,7 +1,7 @@
 
 # Hola! 👋 Soy Lenin
 
-### Visita mi web <a href="https://www.leninrkb.dev" target="_blank" >leninrkb.dev</a> 💻 
+### Visita mi web <a href="https://leninrkb.github.io/leninrkb/" target="_blank" >leninrkb</a> 💻 
 
 ### Acerca de mí 🙋‍♂️
 Soy un desarrollador web con experiencia en tecnologías como Vue, Java, C# y Python. Me enfoco en el desarrollo de aplicaciones y soluciones web 💻💻💻.

@@ -14,8 +14,11 @@ Soy un desarrollador web con experiencia en tecnologías como Vue, Java, C# y Py
 <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" width="24px"/></code> 
 <code><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png" width="24px"/></code> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leninrkb&show_icons=true&icon_color=4ff6fa&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leninrkb&hide=liquid&layout=compact&theme=tokyonight&hide_border=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leninrkb&show_icons=true&icon_color=4ff6fa&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leninrkb&hide=liquid&layout=compact&theme=tokyonight&hide_border=true) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leninrkb&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leninrkb&theme=tokyonight&hide_border=true&layout=compact)
+
 
 
 ### Gracias por visitar mi perfil 😃

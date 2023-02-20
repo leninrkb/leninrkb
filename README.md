@@ -4,7 +4,7 @@
 ### Visita mi web <a href="https://leninrkb.github.io/leninrkb/" target="_blank" >leninrkb</a> 💻 
 
 ### Acerca de mí 🙋‍♂️
-Soy un desarrollador web con experiencia en tecnologías como Vue, Java, C# y Python. Desarrollo aplicaciones de escitorio y soluciones web 💻💻💻.
+Soy un desarrollador con experiencia en tecnologías como Vue, Java, C# y Python. Tengo experiencia en aplicaicones de escritorio y web 💻💻💻.
 
 ### Mis habilidades <img width="20" src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/twitch-1000.gif"/>
 <code><img src="https://icon-icons.com/icons2/195/PNG/48/Java_23404.png" width="20px"/></code>

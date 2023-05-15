@@ -4,7 +4,14 @@
 ### Visita mi web <a href="https://leninrkb.github.io/leninrkb/" target="_blank" >leninrkb</a> 💻 
 
 ### Acerca de mí 🙋‍♂️
-Soy un desarrollador con experiencia en tecnologías como Vue, Java, C# y Python. Y desarrollo de aplicaciones de escritorio y web 💻💻💻.
+
+Soy un desarrollador con conocimientos en tecnologías como Vue, Java, C# y Python 💻💻💻. Tengo experiencia en el desarrollo de aplicaciones de escritorio y web, y estoy especialmente interesado en la creación de soluciones innovadoras utilizando tecnologías emergentes como la inteligencia artificial.
+
+Mi experiencia en el uso de Vue se extiende a proyectos realizados y completados para clientes, con lo que he adquirido habilidades y conocimientos en su implementación y personalización. Además, me mantengo en las tendencias y actualizaciones de este maravilloso framework, con el objeto de crear mejores soluciones.
+
+En cuanto a la Inteligencia Artificial, tengo experiencia en el diseño y desarrollo de sistemas de aprendizaje automático. Poseo conocimientos en algoritmos de IA y procesamiento de datos, lo que me ha permitido trabajar en ciertos proyectos de mediana complejidad.
+
+No me limito únicamente a utilizar las herramientas de inteligencia artificial ya populares disponibles en línea. Sino, cuento con un conocimiento un tanto más detallado en este campo empezando desde las bases teóricas, implementación de algoritmos de búsqueda informada, no informada, optimización y tratamiento de imágenes, ademas de otros subtemas. Hasta la implementación de redes neuronales convolucionales y visión por computadora, utilizando tecnologías como Python, PyTorch, TensorFlow, OpenCV, YOLOv5, Fast R-CNN y Faster R-CNN.
 
 ### Mis habilidades <img width="20" src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/twitch-1000.gif"/>
 <code><img src="https://icon-icons.com/icons2/195/PNG/48/Java_23404.png" width="20px"/></code>

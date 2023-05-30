@@ -11,7 +11,7 @@ Mi experiencia en el uso de Vue se extiende a proyectos realizados y completados
 
 En cuanto a la Inteligencia Artificial, tengo experiencia en el diseño y desarrollo de sistemas de aprendizaje automático. Poseo conocimientos en algoritmos de IA y procesamiento de datos, lo que me ha permitido trabajar en ciertos proyectos de mediana complejidad.
 
-No me limito únicamente a utilizar las herramientas de inteligencia artificial ya populares disponibles en línea. Sino, cuento con un conocimiento un tanto más detallado en este campo empezando desde las bases teóricas, implementación de algoritmos de búsqueda informada, no informada, optimización y tratamiento de imágenes, ademas de otros subtemas. Hasta la implementación de redes neuronales convolucionales y visión por computadora, utilizando tecnologías como Python, PyTorch, TensorFlow, OpenCV, YOLOv5, Fast R-CNN y Faster R-CNN.
+No me limito únicamente a utilizar las herramientas de inteligencia artificial ya populares disponibles en línea. Conozco este campo empezando desde las bases teóricas, implementación de algoritmos de búsqueda informada, no informada, optimización y tratamiento de imágenes, ademas de otros subtemas. Hasta la implementación de redes neuronales convolucionales y visión por computadora, utilizando tecnologías como Python, PyTorch, TensorFlow, OpenCV, YOLOv5, Fast R-CNN y Faster R-CNN.
 
 ### Mis habilidades <img width="20" src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/twitch-1000.gif"/>
 <code><img src="https://icon-icons.com/icons2/195/PNG/48/Java_23404.png" width="20px"/></code>

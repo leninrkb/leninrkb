@@ -7,9 +7,9 @@
 
 Hi everyone 👋! I'm a junior developer who loves working with Vue. Although my journey isn't extensive yet, I also have experience working with other web technologies.
 
-I have explored various technologies, and along the way, I've fallen in love with some of them. Python won over my heart. I have developed some artificial intelligence projects with it.
+I've explored various technologies, and along the way, I fell in love with some of them. Python won my heart. I've developed some artificial intelligence projects with it.
 
-I could talk more, but I don't want to bore you. As a final note, I'm currently learning Kivy and Unity!!! I'm researching game development with fractals. If you're interested in the topic, you can contact me to chat and potentially start an exciting project.
+I could talk more, but I don't want to bore you. As a final note, I'm currently learning Kivy and Unity!!! I'm researching game development with fractals also. If you're interested in the topic, you can contact me to chat and potentially start an exciting project.
 
 If you're new, feel free to contact me; I could share my current experience with you.
 

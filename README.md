@@ -1,17 +1,13 @@
 
 # Hi there! 👋 This is Lenin
 
-### Take a look at my portfolio <a href="https://leninrkb.github.io/leninrkb/" target="_blank" >leninrkb</a> 💻 
+<!-- ### Take a look at my portfolio <a href="https://leninrkb.github.io/leninrkb/" target="_blank" >leninrkb</a> 💻  -->
 
 ### About me 🙋‍♂️
 
-Hi everyone 👋! I'm a junior developer who loves working with Vue. Although my journey isn't extensive yet, I also have experience working with other web technologies.
+Hi everyone 👋! I'm a junior developer who loves working with Vue. Although my journey isn't extensive yet, I also have experience working with other web technologies like Angular and ASP.NET
 
-I've explored various technologies, and along the way, I fell in love with some of them. Python won my heart. I've developed some artificial intelligence projects with it.
-
-I could talk more, but I don't want to bore you. As a final note, I'm currently learning Kivy and Unity!!! I'm researching game development with fractals also. If you're interested in the topic, you can contact me to chat and potentially start an exciting project.
-
-If you're new, feel free to contact me; I could share my current experience with you.
+I've explored various technologies, and along the way, I fell in love with some of them. Python won my heart. I've developed some artificial intelligence projects and small videogames with it. I'm currently learning Kivy, Flet and Unity!!! I'm researching game development with fractals also. If you're interested in the topic, you can contact me to chat and potentially start an exciting project.
 
 ### My Skills <img width="20" src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/twitch-1000.gif"/>
 <code><img src="https://icon-icons.com/icons2/195/PNG/48/Java_23404.png" width="20px"/></code>
